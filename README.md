@@ -61,7 +61,7 @@ Payload [id=123, code=xyz, label=null]
     ]
 }
 ```
-5. Unmarshaller (Jackson) TestJsonUnmarshaller.java - output5:
+5. Unmarshaller (Jackson) TestJsonUnmarshaller.java - output:
 ```
 Payload [id=111, code=222, label=label payload]
 [PayloadParameter [id=111, name=ddd, value=eee], PayloadParameter [id=222, name=rrr, value=ttt]]
