@@ -1,0 +1,2 @@
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://marshalling.jackson.mtitek/payload", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+package mtitek.jackson.marshalling.jaxb.payload;

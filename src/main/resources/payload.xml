@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payload>
+    <id>123</id>
+    <code>xyz</code>
+
+    <parameters>
+        <parameter id="11">
+            <name>bar</name>
+            <value>foo</value>
+        </parameter>
+
+        <parameter id="22">
+            <value>ti</value>
+            <name>ta</name>
+        </parameter>
+    </parameters>
+</payload>
